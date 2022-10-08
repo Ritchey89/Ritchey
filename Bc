@@ -1,0 +1,5 @@
+git clone https://github.com/adrijano/Bitcoin-wallet-cracker.git
+
+cd Bitcoin-wallet-cracker && pip install -r requirements.txt
+
+python bc.py
